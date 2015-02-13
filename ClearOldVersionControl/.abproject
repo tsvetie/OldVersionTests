@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.ClearOldVersionControl",
   "DisplayName": "ClearOldVersionControl",
   "Author": "",
-  "Description": "",
+  "Description": "ClearOldVersionControl",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
